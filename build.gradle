@@ -1,0 +1,5 @@
+plugins { id 'com.android.application' }
+
+android { namespace 'az.naraz.app'; compileSdk 35
+    defaultConfig { applicationId 'az.naraz.app'; minSdk 23; targetSdk 35; versionCode 2; versionName '0.2.0' }
+}
